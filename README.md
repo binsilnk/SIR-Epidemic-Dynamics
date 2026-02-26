@@ -1,6 +1,6 @@
 # SIR Epidemic Model using Spatial Dynamics and Random Walk
 
-**Authors:** Aruneet Binu, Binsil N Kuriakose, Sk Samiul Hq, Chongtham Jayshri  
+**Authors:** Aruneet Binu, Binsil N Kuriakose, Sk Samiul Hq  
 **Institution:** School of Computational and Integrative Sciences, M.Sc 1st Year
 
 ## Overview
@@ -38,3 +38,4 @@ A major feature of this module is its live animation. The program displays a rea
    pip install -r requirements.txt
 3. Execute the main run script to launch the live animation:
    python ProjectRun.py
+
